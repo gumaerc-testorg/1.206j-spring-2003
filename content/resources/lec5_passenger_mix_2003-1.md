@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-206j-airline-schedule-planning-spring-2003/7f574fbf56096fa456abbacab93604a9_lec5_passenger_mix_2003.ppt
+file: /media/courses/1-206j-airline-schedule-planning-spring-2003/7f574fbf56096fa456abbacab93604a9_lec5_passenger_mix_2003.ppt
 file_type: application/msword
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Other
 title: lec5_passenger_mix_2003.ppt
 uid: 7f574fbf-5609-6fa4-56ab-bacab93604a9

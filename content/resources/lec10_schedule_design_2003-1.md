@@ -4,8 +4,13 @@ description: This lecture outlines the schedule design problem definition and it
   objective, schedule design with constant and variable market shares, schedule design
   solution algorithm, results, next steps and a look into the future in airline schedule
   optimization.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-206j-airline-schedule-planning-spring-2003/900b49cc04295ae2e5fa6494fbc2bc1e_lec10_schedule_design_2003.pdf
+file: /media/courses/1-206j-airline-schedule-planning-spring-2003/900b49cc04295ae2e5fa6494fbc2bc1e_lec10_schedule_design_2003.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec10_schedule_design_2003.pdf
 uid: 900b49cc-0429-5ae2-e5fa-6494fbc2bc1e
