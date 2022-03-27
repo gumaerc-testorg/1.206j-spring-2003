@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68b71b6e-90ee-277f-e51d-ce264d1603d5
 resourcetype: Other
 title: lec14_Shan_Lan_Robust_scheduling.ppt
 uid: 0647012f-d7fe-23f1-c382-61ad9e8e280e

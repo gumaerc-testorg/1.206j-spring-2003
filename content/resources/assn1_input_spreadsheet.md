@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 12e64ede-4cb8-8052-c595-66f66df48aff
 resourcetype: Other
 title: assn1_input_spreadsheet.xls
 uid: 5d3b8c0d-fa6b-1958-c4ec-8711cc93b095

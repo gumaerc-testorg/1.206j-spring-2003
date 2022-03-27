@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68b71b6e-90ee-277f-e51d-ce264d1603d5
 resourcetype: Document
 title: lec4_mcfs_linear_and_integer_2003.pdf
 uid: 7ad417e3-63fe-9d75-f0d3-f5fe2a5947c4

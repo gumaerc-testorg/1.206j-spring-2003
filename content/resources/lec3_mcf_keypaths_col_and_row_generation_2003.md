@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68b71b6e-90ee-277f-e51d-ce264d1603d5
 resourcetype: Document
 title: lec3_mcf_keypaths_col_and_row_generation_2003.pdf
 uid: 390c354c-113d-b8f7-4e1b-de23bd84b45b

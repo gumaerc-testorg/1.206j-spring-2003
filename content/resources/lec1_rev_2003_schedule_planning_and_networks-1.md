@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68b71b6e-90ee-277f-e51d-ce264d1603d5
 resourcetype: Document
 title: lec1_rev_2003_schedule_planning_and_networks.pdf
 uid: bb0bc8d7-6cb9-bdd3-e790-ef9789be5ef6

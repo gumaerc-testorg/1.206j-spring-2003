@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68b71b6e-90ee-277f-e51d-ce264d1603d5
 resourcetype: Other
 title: lec10_schedule_design_2003.ppt
 uid: 0c8b39b5-e9bd-2453-3c8b-4f9c28b05486

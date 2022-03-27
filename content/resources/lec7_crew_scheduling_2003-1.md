@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68b71b6e-90ee-277f-e51d-ce264d1603d5
 resourcetype: Document
 title: lec7_crew_scheduling_2003.pdf
 uid: 9196cdef-4150-48f2-b214-d1180025962b

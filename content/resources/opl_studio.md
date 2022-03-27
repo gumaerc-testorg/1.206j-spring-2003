@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 488f5ea4-4e7f-f722-b34c-7caf357a1da5
 resourcetype: Document
 title: opl_studio.pdf
 uid: a40bae1d-fa47-16db-a673-be6ac13fd956

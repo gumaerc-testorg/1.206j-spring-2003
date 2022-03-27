@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68b71b6e-90ee-277f-e51d-ce264d1603d5
 resourcetype: Document
 title: lec2_2003_mcfs1.pdf
 uid: 2839126e-ee7d-400b-1f82-17b196e0061e

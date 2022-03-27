@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68b71b6e-90ee-277f-e51d-ce264d1603d5
 resourcetype: Document
 title: lec14_shan_lan_robust_scheduling.pdf
 uid: 9b4d1f90-7102-621e-7d42-0d4b348f95ee
