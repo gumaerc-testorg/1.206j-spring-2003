@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-206j-airline-schedule-planning-spring-2003/0c8b39b5e9bd24533c8b4f9c28b05486_lec10_schedule_design_2003.ppt
+file: /courses/1-206j-airline-schedule-planning-spring-2003/0c8b39b5e9bd24533c8b4f9c28b05486_lec10_schedule_design_2003.ppt
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

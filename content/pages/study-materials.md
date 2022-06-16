@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -10,6 +11,6 @@ Refer to the OPL Studio Tutorial below for more information on how to use the .d
 
 This section provides materials covered during a tutorial session focused on the Optimization Programming Language (OPL).
 
-OPL Studio Tutorial ([PDF]({{< baseurl >}}/resources/opl_studio))
+OPL Studio Tutorial ({{% resource_link a40bae1d-fa47-16db-a673-be6ac13fd956 "PDF" %}})
 
-OPL Studio Tutorial Supporting Files ([ZIP]({{< baseurl >}}/resources/opl_tutorial_files)) (This .zip file includes: 5 .dat files, 11 .mod files, 5 .prj files, 1 .txt file, 1 .osc file and 1 .xls file.)
+OPL Studio Tutorial Supporting Files ({{% resource_link 227d0599-22ca-792c-0b6a-179318ecd20d "ZIP" %}}) (This .zip file includes: 5 .dat files, 11 .mod files, 5 .prj files, 1 .txt file, 1 .osc file and 1 .xls file.)
