@@ -5,6 +5,7 @@ file: /courses/1-206j-airline-schedule-planning-spring-2003/e78db2e3972aabd554e5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn2.pdf
 uid: e78db2e3-972a-abd5-54e5-845009c22e7b
 ---
 Problem set on Implementing FAM and Slide Constraint Modeling
-

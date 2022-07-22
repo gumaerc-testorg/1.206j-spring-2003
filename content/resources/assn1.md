@@ -5,6 +5,7 @@ file: /courses/1-206j-airline-schedule-planning-spring-2003/cfa13a2badd3d1736e39
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn1.pdf
 uid: cfa13a2b-add3-d173-6e39-d4bce4516f30
 ---
 Problem set on Express Package Operation and Passenger Mix Model
-

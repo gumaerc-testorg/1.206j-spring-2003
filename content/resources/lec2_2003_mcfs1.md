@@ -6,6 +6,7 @@ file: /courses/1-206j-airline-schedule-planning-spring-2003/2839126eee7d400b1f82
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec2_2003_mcfs1.pdf
 uid: 2839126e-ee7d-400b-1f82-17b196e0061e
 ---
 This lecture covers Applications, Problem, Definition, Formulations, Solutions and Results.
-

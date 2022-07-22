@@ -5,6 +5,7 @@ file: /courses/1-206j-airline-schedule-planning-spring-2003/5be4d8edb5b7f7c99525
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
