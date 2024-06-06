@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-206j-airline-schedule-planning-spring-2003/0abfe76be278a3c2f0088bc7b53c1736_lec3_mcf_keypaths_col_and_row_generation_2003.ppt
+file_size: 187392
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
