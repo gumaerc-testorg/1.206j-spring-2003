@@ -3,6 +3,7 @@ content_type: resource
 description: This lecture covers Applications, Problem, Definition, Formulations,
   Solutions and Results.
 file: /courses/1-206j-airline-schedule-planning-spring-2003/2839126eee7d400b1f8217b196e0061e_lec2_2003_mcfs1.pdf
+file_size: 164622
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
