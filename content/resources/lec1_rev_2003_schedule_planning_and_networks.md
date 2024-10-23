@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-206j-airline-schedule-planning-spring-2003/add70ddd33564e4596bc75e34580bdc2_lec1_rev_2003_schedule_planning_and_networks.ppt
+file: /ol-ocw-studio-app/courses/1-206j-airline-schedule-planning-spring-2003/add70ddd33564e4596bc75e34580bdc2_lec1_rev_2003_schedule_planning_and_networks.ppt
 file_size: 358400
 file_type: application/msword
 learning_resource_types:

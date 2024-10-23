@@ -4,7 +4,7 @@ description: This lecture talks about the extended crew pairing problem with air
   maintenance routing, a review of individual problems, interdependence and motivation
   for an alternative approach, sequential approaches, integrated approaches and comparison
   of models.
-file: /courses/1-206j-airline-schedule-planning-spring-2003/b998ecca823123369dace614f3817926_lec9_crew_pairing_and_aircraft_ance_routing_2003.pdf
+file: /ol-ocw-studio-app/courses/1-206j-airline-schedule-planning-spring-2003/b998ecca823123369dace614f3817926_lec9_crew_pairing_and_aircraft_ance_routing_2003.pdf
 file_size: 116443
 file_type: application/pdf
 learning_resource_types:
