@@ -3,7 +3,7 @@ content_type: resource
 description: This lecture talks about the aircraft maintenance routing, the problem
   definition and objective, network representation, string model, solution approach,
   brach-and-price and combined fleet assignment and aircraft routing.
-file: /courses/1-206j-airline-schedule-planning-spring-2003/42c5ce00905799bcb1158163de68211c_lec8_aircraft_maintenance_routing_2003.pdf
+file: /ol-ocw-studio-app/courses/1-206j-airline-schedule-planning-spring-2003/42c5ce00905799bcb1158163de68211c_lec8_aircraft_maintenance_routing_2003.pdf
 file_size: 157549
 file_type: application/pdf
 learning_resource_types:

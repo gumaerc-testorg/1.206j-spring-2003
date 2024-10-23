@@ -4,7 +4,7 @@ description: This is the third lecture in the series of 3 lectures on Airline Op
   This lecture deals with airline schedule recovery framework, aircraft routing feasibility,
   disrupted passenger re-routing under seat uncertainity (heuristics, optimal and
   optimal with bumping control).
-file: /courses/1-206j-airline-schedule-planning-spring-2003/06368dd9817a920246727ed971a12932_lec13_aop3.pdf
+file: /ol-ocw-studio-app/courses/1-206j-airline-schedule-planning-spring-2003/06368dd9817a920246727ed971a12932_lec13_aop3.pdf
 file_size: 196991
 file_type: application/pdf
 learning_resource_types:
