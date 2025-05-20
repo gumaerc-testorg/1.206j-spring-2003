@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-206j-airline-schedule-planning-spring-2003/622efcd43eabf541118cdb8153ed4b87_lec9_crew_pairing_and_aircraft_routing_2003.ppt
+file: /courses/1-206j-airline-schedule-planning-spring-2003/622efcd43eabf541118cdb8153ed4b87_lec9_crew_pairing_and_aircraft_routing_2003.ppt
 file_size: 210432
 file_type: application/msword
 learning_resource_types:

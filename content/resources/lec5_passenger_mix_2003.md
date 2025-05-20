@@ -3,7 +3,7 @@ content_type: resource
 description: This lecture talks about the passenger mix problem, its description,
   formulations, column and row generation, the approach to its solution, results and
   applications and extensions.
-file: /ol-ocw-studio-app/courses/1-206j-airline-schedule-planning-spring-2003/7439d2a05c04bb846b5ed58b1c74360f_lec5_passenger_mix_2003.pdf
+file: /courses/1-206j-airline-schedule-planning-spring-2003/7439d2a05c04bb846b5ed58b1c74360f_lec5_passenger_mix_2003.pdf
 file_size: 208487
 file_type: application/pdf
 learning_resource_types:

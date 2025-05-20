@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-206j-airline-schedule-planning-spring-2003/7f574fbf56096fa456abbacab93604a9_lec5_passenger_mix_2003.ppt
+file: /courses/1-206j-airline-schedule-planning-spring-2003/7f574fbf56096fa456abbacab93604a9_lec5_passenger_mix_2003.ppt
 file_size: 105984
 file_type: application/msword
 learning_resource_types:

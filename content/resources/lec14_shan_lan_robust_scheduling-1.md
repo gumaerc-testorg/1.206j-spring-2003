@@ -4,7 +4,7 @@ description: This lecture details about background, motivation, our contribution
   overview of robust airline schedule planning, robust aircraft maintenance routing
   (reduce delay propagation), flight schedule retiming (reduce passenger missed connections)
   and also about some future research directions.
-file: /ol-ocw-studio-app/courses/1-206j-airline-schedule-planning-spring-2003/9b4d1f907102621e7d420d4b348f95ee_lec14_shan_lan_robust_scheduling.pdf
+file: /courses/1-206j-airline-schedule-planning-spring-2003/9b4d1f907102621e7d420d4b348f95ee_lec14_shan_lan_robust_scheduling.pdf
 file_size: 251268
 file_type: application/pdf
 learning_resource_types:

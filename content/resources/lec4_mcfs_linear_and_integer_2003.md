@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-206j-airline-schedule-planning-spring-2003/b062cf52efa48b23934808d9ed18837a_lec4_mcfs_linear_and_integer_2003.ppt
+file: /courses/1-206j-airline-schedule-planning-spring-2003/b062cf52efa48b23934808d9ed18837a_lec4_mcfs_linear_and_integer_2003.ppt
 file_size: 459264
 file_type: application/msword
 learning_resource_types:
