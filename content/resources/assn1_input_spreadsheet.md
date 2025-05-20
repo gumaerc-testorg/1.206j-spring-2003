@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is an Excel file containing the following sheets: Flight, Timeline
   Network, Itinerary, Recapture Rate, Part A, Part B1, Part B2, and Question 8.'
-file: /ol-ocw-studio-app/courses/1-206j-airline-schedule-planning-spring-2003/5d3b8c0dfa6b1958c4ec8711cc93b095_assn1_input_spreadsheet.xls
+file: /courses/1-206j-airline-schedule-planning-spring-2003/5d3b8c0dfa6b1958c4ec8711cc93b095_assn1_input_spreadsheet.xls
 file_size: 121344
 file_type: application/msword
 learning_resource_types:
