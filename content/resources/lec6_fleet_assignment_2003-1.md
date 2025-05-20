@@ -3,7 +3,7 @@ content_type: resource
 description: This lecture talks about the fleet assignment problem definition and
   objective, fleet assignment network representation, fleet assignment model, solution
   (branch-and-bound) and results.
-file: /ol-ocw-studio-app/courses/1-206j-airline-schedule-planning-spring-2003/649d9e5abbc6d05bd096fc19952cd9f9_lec6_fleet_assignment_2003.pdf
+file: /courses/1-206j-airline-schedule-planning-spring-2003/649d9e5abbc6d05bd096fc19952cd9f9_lec6_fleet_assignment_2003.pdf
 file_size: 1054242
 file_type: application/pdf
 learning_resource_types:
