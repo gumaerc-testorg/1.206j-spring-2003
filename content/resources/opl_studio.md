@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of Optimization Programming Language Tutorial
-file: /courses/1-206j-airline-schedule-planning-spring-2003/a40bae1dfa4716dba673be6ac13fd956_opl_studio.pdf
+file: /ol-ocw-studio-app/courses/1-206j-airline-schedule-planning-spring-2003/a40bae1dfa4716dba673be6ac13fd956_opl_studio.pdf
 file_size: 41300
 file_type: application/pdf
 learning_resource_types: []
